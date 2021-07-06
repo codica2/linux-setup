@@ -1,8 +1,8 @@
-# Bash script for setting Ubuntu!
+# Bash script for setting Linux!
 
 ![](ubuntu-setting.png)
 
-Scripts to configure Ubuntu
+Scripts to configure Linux
 ---
 
  **`main.sh`** - script to configure / add programs in Ubuntu after the initial installation. 
@@ -76,7 +76,7 @@ An opportunity to choose two types of installation:**
 * Remove totem video player
 
 ## License
-Ubuntu Setup is Copyright © 2015-2021 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
+Linux Setup is Copyright © 2015-2021 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## About Codica
 
